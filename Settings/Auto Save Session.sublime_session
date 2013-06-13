@@ -1,0 +1,2169 @@
+{
+	"folder_history":
+	[
+		"/home/mizan/projects/dan/sinatra-sascrapper",
+		"/home/mizan/projects/dan/sa_scraper",
+		"/home/mizan/projects/dan/sinatra-template",
+		"/home/mizan/projects/dan/sinatra-sa",
+		"/home/mizan/projects/ot",
+		"/home/mizan/projects/pic_handler",
+		"/home/mizan/.config/sublime-text-2",
+		"/home/mizan/.config/sublime-text-2/Packages",
+		"/home/mizan/projects/flickr2fb",
+		"/home/mizan/projects/flickr2fb/script"
+	],
+	"last_window_id": 4,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ea",
+						"ea	each { |e| .. }"
+					],
+					[
+						"get",
+						"get_profiles"
+					],
+					[
+						"login",
+						"login"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"noti",
+						"notification"
+					],
+					[
+						"un",
+						"unread_count"
+					],
+					[
+						"sub",
+						"Subscription"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"be",
+						"belongs_to"
+					],
+					[
+						"do",
+						"dob	Insert do |variable| … end"
+					],
+					[
+						"su",
+						"subscription"
+					],
+					[
+						"subsc",
+						"subscribable"
+					],
+					[
+						"subscri",
+						"Subscription"
+					],
+					[
+						"object",
+						"object_type"
+					],
+					[
+						"re",
+						"recent_pics"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"fi",
+						"first  (function)"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"curr",
+						"current_user"
+					],
+					[
+						"com",
+						"commit"
+					],
+					[
+						"deploy",
+						"deploy_heroku"
+					],
+					[
+						"eac",
+						"eac-	each_cons(..) { |group| .. }"
+					],
+					[
+						"acc",
+						"AccessDenied"
+					],
+					[
+						"app",
+						"approved"
+					],
+					[
+						"A",
+						"Admin"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 79.0,
+				"selected_items":
+				[
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"gi",
+						"Git: Status"
+					],
+					[
+						"git",
+						"Git: Gui"
+					],
+					[
+						"gist u",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Remove Package"
+					],
+					[
+						"gis",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"gist o",
+						"Gist: Open Gist"
+					],
+					[
+						"gist",
+						"Gist: Update File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ali",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 138.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mizan/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/login.rb",
+				"/home/mizan/Rakefile",
+				"/home/mizan/projects/dan/sa_scraper/sascraper/sascraper/output.txt",
+				"/home/mizan/projects/dan/sa_scraper/sascraper/sascraper/Books",
+				"/home/mizan/projects/octopress/Rakefile",
+				"/home/mizan/projects/ot/log/production.log",
+				"/home/mizan/projects/ot/config/environments/development.rb",
+				"/media/mizan/CodeZone/Codezone/projects/Issac/db scripts/profiles-modified-userbalanced.sql",
+				"/home/mizan/projects/ot/log/development.log",
+				"/media/mizan/CodeZone/Codezone/projects/Issac/db scripts/users.txt",
+				"/home/mizan/projects/ot/app/views/user_mailer/welcome_email.html.erb",
+				"/home/mizan/projects/ot/app/mailers/user_mailer.rb",
+				"/home/mizan/projects/ot/app/controllers/home_controller.rb",
+				"/home/mizan/projects/ot/app/controllers/application_controller.rb",
+				"/home/mizan/projects/ot/db/migrate/20130203023644_add_content_to_topic.rb",
+				"/home/mizan/projects/ot/db/migrate/20130217011315_add_graduation_year_to_degrees.rb",
+				"/home/mizan/projects/ot/db/migrate/20130603195904_add_unread_to_notifications.rb",
+				"/home/mizan/projects/ot/db/seeds.rb",
+				"/home/mizan/projects/ot/app/views/notifications/index.html.erb",
+				"/home/mizan/projects/ot/app/controllers/notifications_controller.rb",
+				"/home/mizan/projects/ot/app/models/topic.rb",
+				"/home/mizan/projects/ot/app/models/notification.rb",
+				"/home/mizan/projects/ot/app/models/subscription.rb",
+				"/home/mizan/projects/ot/app/controllers/posts_controller.rb",
+				"/home/mizan/projects/ot/app/views/topics/show.html.erb",
+				"/home/mizan/projects/ot/config/routes.rb",
+				"/home/mizan/projects/ot/app/controllers/subscriptions_controller.rb",
+				"/home/mizan/rails-commands.sh",
+				"/home/mizan/projects/ot/app/views/layouts/application.html.erb",
+				"/home/mizan/projects/ot/script/rails",
+				"/home/mizan/projects/embedly-test/index.html",
+				"/home/mizan/projects/ot/app/assets/javascripts/resources.js.coffee",
+				"/home/mizan/projects/ot/app/views/resources/_confirm.html.erb",
+				"/home/mizan/projects/ot/app/views/resources/index.html.erb",
+				"/home/mizan/projects/ot/app/controllers/resources_controller.rb",
+				"/home/mizan/projects/ot/test/unit/subscription_test.rb",
+				"/home/mizan/projects/ot/db/migrate/20130423165538_create_refinerycms_resources_schema.refinery_resources.rb",
+				"/home/mizan/projects/ot/db/migrate/20130531234929_create_subscriptions.rb",
+				"/home/mizan/projects/ot/app/models/user.rb",
+				"/home/mizan/projects/ot/Rakefile",
+				"/home/mizan/projects/ot/db/migrate/20130528174949_create_notifications.rb",
+				"/home/mizan/projects/ot/app/models/notification_user.rb",
+				"/home/mizan/projects/ot/Gemfile",
+				"/home/mizan/projects/flickr2fb_sinatra/gemfile",
+				"/home/mizan/projects/flickr2fb_sinatra/app.rb",
+				"/home/mizan/git-commands.sh",
+				"/home/mizan/projects/ot/app/models/role.rb",
+				"/home/mizan/projects/ot/app/models/ability.rb",
+				"/home/mizan/projects/ot/app/models/user_plugin.rb",
+				"/home/mizan/projects/ot/app/controllers/refinery/pages_controller.rb",
+				"/home/mizan/projects/ot/config/application.rb",
+				"/home/mizan/projects/ot/config/initializers/rails_admin.rb",
+				"/home/mizan/projects/ot/config/initializers/kaminari.rb",
+				"/home/mizan/projects/ot/app/controllers/topics_controller.rb",
+				"/home/mizan/projects/ot/app/views/layouts/guest.html.erb",
+				"/home/mizan/projects/ot/app/views/layouts/refinery/pages.html.erb",
+				"/home/mizan/projects/ot/app/models/profile.rb",
+				"/home/mizan/projects/ot/app/controllers/networks_controller.rb",
+				"/media/mizan/CodeZone/Codezone/projects/Issac/db scripts/profiles-modified.sql",
+				"/home/mizan/rails-commands",
+				"/home/mizan/projects/ot/app/uploaders/avatar_uploader.rb",
+				"/home/mizan/users-new.sql",
+				"/home/mizan/projects/testgem/Rakefile",
+				"/home/mizan/projects/sandbox/jekyllsite/_layouts/default.html",
+				"/home/mizan/projects/sandbox/jekyllsite/_layouts/post.html",
+				"/media/mizan/CodeZone/Codezone/projects/Issac/db scripts/profiles.txt",
+				"/home/mizan/projects/ot/app/views/devise/registrations/edit.html.erb",
+				"/home/mizan/projects/ot/app/views/profiles/_form.html.erb",
+				"/home/mizan/projects/ot/app/assets/stylesheets/application.css",
+				"/home/mizan/projects/sandbox/jekyllsite/_config.yml",
+				"/home/mizan/projects/ot/app/controllers/universities_controller.rb",
+				"/home/mizan/.config/sublime-text-2/Packages/User/Gist.sublime-settings",
+				"/home/mizan/projects/ot/app/controllers/profiles_controller.rb",
+				"/home/mizan/projects/ot/app/controllers/jobs_controller.rb",
+				"/home/mizan/projects/ot/README.rdoc",
+				"/home/mizan/git-github-workflow.sh",
+				"/home/mizan/projects/ot/app/models/post.rb",
+				"/home/mizan/.config/sublime-text-2/Packages/Terminal/Base File.sublime-settings",
+				"/home/mizan/projects/SPINDAL/app/controllers/api/albums_controller.rb",
+				"/home/mizan/Documents/proposals/rails-proposal-template.txt",
+				"/home/mizan/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/mizan/projects/ot/config/initializers/refinery/user.rb",
+				"/home/mizan/rails_new.sh",
+				"/home/mizan/projects/ot/app/views/layouts/page.html.erb",
+				"/home/mizan/projects/rails_new.sh",
+				"/home/mizan/projects/ot/config/environments/production.rb",
+				"/home/mizan/projects/ot/.git/COMMIT_EDITMSG",
+				"/home/mizan/projects/ot/app/views/jobs/_form.html.erb",
+				"/home/mizan/rails-snippets.rb",
+				"/home/mizan/projects/ot/db/migrate/20130217023438_add_approved_to_badges.rb",
+				"/home/mizan/projects/ot/db/schema.rb",
+				"/home/mizan/projects/ot/app/views/topics/index.html.erb",
+				"/home/mizan/projects/ot/app/views/common/_submenu.html.erb",
+				"/home/mizan/projects/ot/app/views/jobs/index.html.erb",
+				"/home/mizan/projects/ot/app/views/jobs/new.html.erb",
+				"/home/mizan/projects/ot/app/views/jobs/show.html.erb",
+				"/home/mizan/projects/ot/app/views/jobs/edit.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/new.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/show.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/edit.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/_form.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/index.html.erb",
+				"/home/mizan/projects/ot/app/assets/javascripts/application.js",
+				"/home/mizan/projects/ot/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+				"/media/mizan/CodeZone/Codezone/projects/olivetalk/app/assets/stylesheets/application.css",
+				"/home/mizan/projects/ot/config/database.yml",
+				"/home/mizan/app.js",
+				"/home/mizan/projects/ot/app/assets/javascripts/bootstrap.js.coffee",
+				"/home/mizan/.gitconfig",
+				"/home/mizan/hello-gem/lib/hello-gem.rb",
+				"/home/mizan/hello-gem/Gemfile",
+				"/usr/share/applications/sublime.desktop",
+				"/usr/share/applications/defaults.list"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"agent",
+					"time_ago_in_words",
+					"notification_email",
+					"welcome_email",
+					"check_for_profile",
+					"subscriber",
+					"post",
+					"secondary",
+					"start",
+					"id_status",
+					"paste the url",
+					"ke",
+					"key",
+					"selector",
+					"kam",
+					"PagesController",
+					"Refinery::PagesController",
+					"Refinery::PagesController.class_eval",
+					"admin",
+					"refinery",
+					"post",
+					"posts",
+					"''''",
+					"\"",
+					"\"\"",
+					";",
+					"magic",
+					"check_for_profile",
+					"refinery.root_path",
+					"flash",
+					"is_approved",
+					"gedit"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"subscription",
+					"notification",
+					"resource_url",
+					"resource_url\n  alert(\"Hello\");\n",
+					"notification",
+					"notifications",
+					"''",
+					"'",
+					"\"''\"",
+					",",
+					"sublime"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.git":
+			{
+				"height": 177.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/profiles.txt"
+					],
+					[
+						"ra",
+						"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/Rakefile"
+					],
+					[
+						"rake",
+						"/home/mizan/projects/octopress/Rakefile"
+					],
+					[
+						"de",
+						"config/environments/development.rb"
+					],
+					[
+						"dev",
+						"config/environments/development.rb"
+					],
+					[
+						"prod",
+						"config/environments/production.rb"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"pos",
+						"app/models/post.rb"
+					],
+					[
+						"noti",
+						"app/models/notification.rb"
+					],
+					[
+						"postc",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"poscre",
+						"app/controllers/notifications_controller.rb"
+					],
+					[
+						"emai",
+						"app/views/user_mailer/notification_email.html.erb"
+					],
+					[
+						"prof",
+						"app/models/profile.rb"
+					],
+					[
+						"top",
+						"app/controllers/topics_controller.rb"
+					],
+					[
+						"welcom",
+						"app/views/devise/mailer/confirmation_instructions.html.erb"
+					],
+					[
+						"see",
+						"db/seeds.rb"
+					],
+					[
+						"wel",
+						"app/views/user_mailer/welcome_email.html.erb"
+					],
+					[
+						"app",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"no",
+						"app/models/notification.rb"
+					],
+					[
+						"migradd",
+						"db/migrate/20130203023644_add_content_to_topic.rb"
+					],
+					[
+						"migraadd",
+						"db/migrate/20130603195904_add_unread_to_notifications.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"topi",
+						"app/models/topic.rb"
+					],
+					[
+						"roue",
+						"config/routes.rb"
+					],
+					[
+						"rail",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"su",
+						"app/controllers/subscriptions_controller.rb"
+					],
+					[
+						"sub",
+						"app/controllers/subscriptions_controller.rb"
+					],
+					[
+						"rails",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"railc",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"not",
+						"app/models/notification.rb"
+					],
+					[
+						"rai",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"createsubsc",
+						"db/migrate/20130531234929_create_subscriptions.rb"
+					],
+					[
+						"createsub",
+						"db/migrate/20130423165538_create_refinerycms_resources_schema.refinery_resources.rb"
+					],
+					[
+						"railsc",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"resouindex",
+						"app/views/resources/index.html.erb"
+					],
+					[
+						"app/re",
+						"app/controllers/resources_controller.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"con",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"lay",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"vi",
+						"app/views/home/index.html.erb"
+					],
+					[
+						"home",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"ro",
+						"config/routes.rb"
+					],
+					[
+						"kamin",
+						"config/initializers/kaminari.rb"
+					],
+					[
+						"apperb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"abil",
+						"app/models/ability.rb"
+					],
+					[
+						"abi",
+						"app/models/ability.rb"
+					],
+					[
+						"role",
+						"app/models/role.rb"
+					],
+					[
+						"net",
+						"app/controllers/networks_controller.rb"
+					],
+					[
+						"netw",
+						"app/controllers/networks_controller.rb"
+					],
+					[
+						"rak",
+						"Rakefile"
+					],
+					[
+						"re",
+						"README.rdoc"
+					],
+					[
+						"read",
+						"README.rdoc"
+					],
+					[
+						"controller",
+						"app/controllers/jobs_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 277.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"write",
+						"write_profiles"
+					],
+					[
+						"pro",
+						"profile_list"
+					],
+					[
+						"next",
+						"next_link"
+					],
+					[
+						"pr",
+						"profile"
+					],
+					[
+						"M",
+						"mechanize"
+					],
+					[
+						"ea",
+						"ea	each { |e| .. }"
+					],
+					[
+						"get",
+						"get_profiles"
+					],
+					[
+						"login",
+						"login"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"noti",
+						"notification"
+					],
+					[
+						"un",
+						"unread_count"
+					],
+					[
+						"sub",
+						"Subscription"
+					],
+					[
+						"user",
+						"user"
+					],
+					[
+						"be",
+						"belongs_to"
+					],
+					[
+						"do",
+						"dob	Insert do |variable| … end"
+					],
+					[
+						"su",
+						"subscription"
+					],
+					[
+						"subsc",
+						"subscribable"
+					],
+					[
+						"subscri",
+						"Subscription"
+					],
+					[
+						"object",
+						"object_type"
+					],
+					[
+						"re",
+						"recent_pics"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"fi",
+						"first  (function)"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"margi",
+						"margin-top"
+					],
+					[
+						"curr",
+						"current_user"
+					],
+					[
+						"com",
+						"commit"
+					],
+					[
+						"deploy",
+						"deploy_heroku"
+					],
+					[
+						"eac",
+						"eac-	each_cons(..) { |group| .. }"
+					],
+					[
+						"acc",
+						"AccessDenied"
+					],
+					[
+						"app",
+						"approved"
+					],
+					[
+						"A",
+						"Admin"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "projects/pic_handler/Gemfile",
+					"settings":
+					{
+						"buffer_size": 1205,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "rails-commands.sh",
+					"settings":
+					{
+						"buffer_size": 1960,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/pic_handler/app/controllers/photos_controller.rb",
+					"settings":
+					{
+						"buffer_size": 106,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/pic_handler/app/views/photos/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 381,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": ".config/sublime-text-2/Packages/HTMLBeautify/Default (Linux).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 72,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "projects/pic_handler/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1836,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/pic_handler/config/config.yml",
+					"settings":
+					{
+						"buffer_size": 1704,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/pic_handler/config/database.yml",
+					"settings":
+					{
+						"buffer_size": 439,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/ot/config/database.yml",
+					"settings":
+					{
+						"buffer_size": 1554,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/pic_handler/app/models/photo.rb",
+					"settings":
+					{
+						"buffer_size": 415,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/ot/Rakefile",
+					"settings":
+					{
+						"buffer_size": 2598,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/dan/sa_scraper/ruby_sascraper/Rakefile",
+					"settings":
+					{
+						"buffer_size": 847,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "Dropbox/projects/angularjs-in-action/ch02/index.html",
+					"settings":
+					{
+						"buffer_size": 2871,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "projects/pic_handler/public/index.html",
+					"settings":
+					{
+						"buffer_size": 5906,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/pic_handler/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 2196,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/pic_handler/app/assets/stylesheets/photos.css.scss",
+					"settings":
+					{
+						"buffer_size": 178,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "projects/pic_handler/Rakefile",
+					"settings":
+					{
+						"buffer_size": 1018,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 194.0,
+				"selected_items":
+				[
+					[
+						"brow",
+						"Preferences: Browse Packages"
+					],
+					[
+						"beauti",
+						"Snippet: Bootstrap default link button"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"html",
+						"HTML2Haml: Convert file"
+					],
+					[
+						"",
+						"HTML2Haml: Convert file"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"boot nav",
+						"Snippet: Bootstrap navigation bar"
+					],
+					[
+						"boo tabl",
+						"Snippet: Bootstrap tabbable navigation tabs on the left"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					],
+					[
+						"create",
+						"Gist: Create Private Gist"
+					],
+					[
+						"insert",
+						"Gist: Insert Gist"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add..."
+					],
+					[
+						"update",
+						"Gist: Update File"
+					],
+					[
+						"gist",
+						"Gist: Open Gist"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"gi",
+						"Git: Status"
+					],
+					[
+						"git",
+						"Git: Gui"
+					],
+					[
+						"gist u",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"gis",
+						"Gist: Open Gist in Browser"
+					],
+					[
+						"gist o",
+						"Gist: Open Gist"
+					],
+					[
+						"ali",
+						"Preferences: Alignment File Settings – Default"
+					],
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 138.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/mizan/projects/pic_handler/app/views/photos/index.html.haml",
+				"/home/mizan/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/mizan/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/authentication.rb",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/out.txt",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/sa.rb",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/gdrive.rb",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/gdrivetest.rb",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/Gemfile",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/login.rb",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/Readme.md",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/Rakefile",
+				"/home/mizan/Dropbox/ruby-notes.md",
+				"/home/mizan/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/authentication",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/profile_scrapper.rb",
+				"/home/mizan/projects/dan/main.py",
+				"/home/mizan/scripts/installscripts.ubuntu.sh",
+				"/home/mizan/projects/dan/sa_scraper/sascraper/sascraper/spiders/dmoz_spider.py",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/test.rb",
+				"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/profiles.txt",
+				"/home/mizan/projects/ot/Gemfile",
+				"/home/mizan/projects/sandbox/rspectest/bowling_spec.rb",
+				"/home/mizan/gemlist.md",
+				"/home/mizan/projects/sandbox/rspectest/bowling.rb",
+				"/home/mizan/projects/SPINDAL/Gemfile",
+				"/home/mizan/Dropbox/documents/rails-cover-letter.txt",
+				"/home/mizan/scripts/ruby-install-mac",
+				"/home/mizan/projects/octopress/Rakefile",
+				"/home/mizan/.config/sublime-text-2/Packages/User/Base File.sublime-settings",
+				"/home/mizan/Rakefile",
+				"/home/mizan/projects/dan/sa_scraper/sascraper/sascraper/output.txt",
+				"/home/mizan/projects/dan/sa_scraper/sascraper/sascraper/Books",
+				"/home/mizan/projects/ot/log/production.log",
+				"/home/mizan/projects/ot/config/environments/development.rb",
+				"/media/mizan/CodeZone/Codezone/projects/Issac/db scripts/profiles-modified-userbalanced.sql",
+				"/home/mizan/projects/ot/log/development.log",
+				"/media/mizan/CodeZone/Codezone/projects/Issac/db scripts/users.txt",
+				"/home/mizan/projects/ot/app/views/user_mailer/welcome_email.html.erb",
+				"/home/mizan/projects/ot/app/mailers/user_mailer.rb",
+				"/home/mizan/projects/ot/app/controllers/home_controller.rb",
+				"/home/mizan/projects/ot/app/controllers/application_controller.rb",
+				"/home/mizan/projects/ot/db/migrate/20130203023644_add_content_to_topic.rb",
+				"/home/mizan/projects/ot/db/migrate/20130217011315_add_graduation_year_to_degrees.rb",
+				"/home/mizan/projects/ot/db/migrate/20130603195904_add_unread_to_notifications.rb",
+				"/home/mizan/projects/ot/db/seeds.rb",
+				"/home/mizan/projects/ot/app/views/notifications/index.html.erb",
+				"/home/mizan/projects/ot/app/controllers/notifications_controller.rb",
+				"/home/mizan/projects/ot/app/models/topic.rb",
+				"/home/mizan/projects/ot/app/models/notification.rb",
+				"/home/mizan/projects/ot/app/models/subscription.rb",
+				"/home/mizan/projects/ot/app/controllers/posts_controller.rb",
+				"/home/mizan/projects/ot/app/views/topics/show.html.erb",
+				"/home/mizan/projects/ot/config/routes.rb",
+				"/home/mizan/projects/ot/app/controllers/subscriptions_controller.rb",
+				"/home/mizan/rails-commands.sh",
+				"/home/mizan/projects/ot/app/views/layouts/application.html.erb",
+				"/home/mizan/projects/ot/script/rails",
+				"/home/mizan/projects/embedly-test/index.html",
+				"/home/mizan/projects/ot/app/assets/javascripts/resources.js.coffee",
+				"/home/mizan/projects/ot/app/views/resources/_confirm.html.erb",
+				"/home/mizan/projects/ot/app/views/resources/index.html.erb",
+				"/home/mizan/projects/ot/app/controllers/resources_controller.rb",
+				"/home/mizan/projects/ot/test/unit/subscription_test.rb",
+				"/home/mizan/projects/ot/db/migrate/20130423165538_create_refinerycms_resources_schema.refinery_resources.rb",
+				"/home/mizan/projects/ot/db/migrate/20130531234929_create_subscriptions.rb",
+				"/home/mizan/projects/ot/app/models/user.rb",
+				"/home/mizan/projects/ot/Rakefile",
+				"/home/mizan/projects/ot/db/migrate/20130528174949_create_notifications.rb",
+				"/home/mizan/projects/ot/app/models/notification_user.rb",
+				"/home/mizan/projects/flickr2fb_sinatra/gemfile",
+				"/home/mizan/projects/flickr2fb_sinatra/app.rb",
+				"/home/mizan/git-commands.sh",
+				"/home/mizan/projects/ot/app/models/role.rb",
+				"/home/mizan/projects/ot/app/models/ability.rb",
+				"/home/mizan/projects/ot/app/models/user_plugin.rb",
+				"/home/mizan/projects/ot/app/controllers/refinery/pages_controller.rb",
+				"/home/mizan/projects/ot/config/application.rb",
+				"/home/mizan/projects/ot/config/initializers/rails_admin.rb",
+				"/home/mizan/projects/ot/config/initializers/kaminari.rb",
+				"/home/mizan/projects/ot/app/controllers/topics_controller.rb",
+				"/home/mizan/projects/ot/app/views/layouts/guest.html.erb",
+				"/home/mizan/projects/ot/app/views/layouts/refinery/pages.html.erb",
+				"/home/mizan/projects/ot/app/models/profile.rb",
+				"/home/mizan/projects/ot/app/controllers/networks_controller.rb",
+				"/media/mizan/CodeZone/Codezone/projects/Issac/db scripts/profiles-modified.sql",
+				"/home/mizan/rails-commands",
+				"/home/mizan/projects/ot/app/uploaders/avatar_uploader.rb",
+				"/home/mizan/users-new.sql",
+				"/home/mizan/projects/testgem/Rakefile",
+				"/home/mizan/projects/sandbox/jekyllsite/_layouts/default.html",
+				"/home/mizan/projects/sandbox/jekyllsite/_layouts/post.html",
+				"/media/mizan/CodeZone/Codezone/projects/Issac/db scripts/profiles.txt",
+				"/home/mizan/projects/ot/app/views/devise/registrations/edit.html.erb",
+				"/home/mizan/projects/ot/app/views/profiles/_form.html.erb",
+				"/home/mizan/projects/ot/app/assets/stylesheets/application.css",
+				"/home/mizan/projects/sandbox/jekyllsite/_config.yml",
+				"/home/mizan/projects/ot/app/controllers/universities_controller.rb",
+				"/home/mizan/.config/sublime-text-2/Packages/User/Gist.sublime-settings",
+				"/home/mizan/projects/ot/app/controllers/profiles_controller.rb",
+				"/home/mizan/projects/ot/app/controllers/jobs_controller.rb",
+				"/home/mizan/projects/ot/README.rdoc",
+				"/home/mizan/git-github-workflow.sh",
+				"/home/mizan/projects/ot/app/models/post.rb",
+				"/home/mizan/.config/sublime-text-2/Packages/Terminal/Base File.sublime-settings",
+				"/home/mizan/projects/SPINDAL/app/controllers/api/albums_controller.rb",
+				"/home/mizan/Documents/proposals/rails-proposal-template.txt",
+				"/home/mizan/projects/ot/config/initializers/refinery/user.rb",
+				"/home/mizan/rails_new.sh",
+				"/home/mizan/projects/ot/app/views/layouts/page.html.erb",
+				"/home/mizan/projects/rails_new.sh",
+				"/home/mizan/projects/ot/config/environments/production.rb",
+				"/home/mizan/projects/ot/.git/COMMIT_EDITMSG",
+				"/home/mizan/projects/ot/app/views/jobs/_form.html.erb",
+				"/home/mizan/rails-snippets.rb",
+				"/home/mizan/projects/ot/db/migrate/20130217023438_add_approved_to_badges.rb",
+				"/home/mizan/projects/ot/db/schema.rb",
+				"/home/mizan/projects/ot/app/views/topics/index.html.erb",
+				"/home/mizan/projects/ot/app/views/common/_submenu.html.erb",
+				"/home/mizan/projects/ot/app/views/jobs/index.html.erb",
+				"/home/mizan/projects/ot/app/views/jobs/new.html.erb",
+				"/home/mizan/projects/ot/app/views/jobs/show.html.erb",
+				"/home/mizan/projects/ot/app/views/jobs/edit.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/new.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/show.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/edit.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/_form.html.erb",
+				"/home/mizan/projects/ot/app/views/degrees/index.html.erb"
+			],
+			"find":
+			{
+				"height": 59.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"profile[",
+					"fetch",
+					"write",
+					"agent",
+					"time_ago_in_words",
+					"notification_email",
+					"welcome_email",
+					"check_for_profile",
+					"subscriber",
+					"post",
+					"secondary",
+					"start",
+					"id_status",
+					"paste the url",
+					"ke",
+					"key",
+					"selector",
+					"kam",
+					"PagesController",
+					"Refinery::PagesController",
+					"Refinery::PagesController.class_eval",
+					"admin",
+					"refinery",
+					"post",
+					"posts",
+					"''''",
+					"\"",
+					"\"\"",
+					";",
+					"magic",
+					"check_for_profile",
+					"refinery.root_path",
+					"flash",
+					"is_approved",
+					"gedit"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"subscription",
+					"notification",
+					"resource_url",
+					"resource_url\n  alert(\"Hello\");\n",
+					"notification",
+					"notifications",
+					"''",
+					"'",
+					"\"''\"",
+					",",
+					"sublime"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "projects/pic_handler/Gemfile",
+							"settings":
+							{
+								"buffer_size": 1205,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										466,
+										466
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "rails-commands.sh",
+							"settings":
+							{
+								"buffer_size": 1960,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										381,
+										381
+									]
+								],
+								"settings":
+								{
+									"gist_description": "rails commands",
+									"gist_filename": "rails-commands.sh",
+									"gist_html_url": "https://gist.github.com/5952afd5a196f4674b36",
+									"gist_url": "https://api.github.com/gists/5952afd5a196f4674b36",
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 171.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "projects/pic_handler/app/controllers/photos_controller.rb",
+							"settings":
+							{
+								"buffer_size": 106,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										81,
+										81
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "projects/pic_handler/app/views/photos/index.html.erb",
+							"settings":
+							{
+								"buffer_size": 381,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										381,
+										381
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": ".config/sublime-text-2/Packages/HTMLBeautify/Default (Linux).sublime-keymap",
+							"settings":
+							{
+								"buffer_size": 72,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										66,
+										66
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "projects/pic_handler/config/routes.rb",
+							"settings":
+							{
+								"buffer_size": 1836,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										744,
+										744
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "projects/pic_handler/config/config.yml",
+							"settings":
+							{
+								"buffer_size": 1704,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 285.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "projects/pic_handler/config/database.yml",
+							"settings":
+							{
+								"buffer_size": 439,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										154,
+										154
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "projects/ot/config/database.yml",
+							"settings":
+							{
+								"buffer_size": 1554,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										499,
+										499
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "projects/pic_handler/app/models/photo.rb",
+							"settings":
+							{
+								"buffer_size": 415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										221,
+										221
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "projects/ot/Rakefile",
+							"settings":
+							{
+								"buffer_size": 2598,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1195,
+										1195
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 424.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "projects/dan/sa_scraper/ruby_sascraper/Rakefile",
+							"settings":
+							{
+								"buffer_size": 847,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										240,
+										240
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 85.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "Dropbox/projects/angularjs-in-action/ch02/index.html",
+							"settings":
+							{
+								"buffer_size": 2871,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										404,
+										404
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "projects/pic_handler/public/index.html",
+							"settings":
+							{
+								"buffer_size": 5906,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "projects/pic_handler/app/views/layouts/application.html.erb",
+							"settings":
+							{
+								"buffer_size": 2196,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										327,
+										327
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "projects/pic_handler/app/assets/stylesheets/photos.css.scss",
+							"settings":
+							{
+								"buffer_size": 178,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										178,
+										178
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "projects/pic_handler/Rakefile",
+							"settings":
+							{
+								"buffer_size": 1018,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										497,
+										497
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 126.0
+			},
+			"output.git":
+			{
+				"height": 177.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/Rakefile"
+					],
+					[
+						"pho",
+						"app/models/photo.rb"
+					],
+					[
+						"rake",
+						"Rakefile"
+					],
+					[
+						"in",
+						"app/views/photos/index.html.erb"
+					],
+					[
+						"con",
+						"app/controllers/photos_controller.rb"
+					],
+					[
+						"po",
+						"app/models/photo.rb"
+					],
+					[
+						"inde",
+						"app/views/photos/index.html.erb"
+					],
+					[
+						"apphtml",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"phot",
+						"app/models/photo.rb"
+					],
+					[
+						"photoc",
+						"app/controllers/photos_controller.rb"
+					],
+					[
+						"phoin",
+						"app/views/photos/index.html.erb"
+					],
+					[
+						"rail",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"photo/in",
+						"app/views/photos/index.html.erb"
+					],
+					[
+						"au",
+						"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/authentication.rb"
+					],
+					[
+						"lo",
+						"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/login.rb"
+					],
+					[
+						"ra",
+						"/home/mizan/projects/dan/sa_scraper/ruby_sascraper/Rakefile"
+					],
+					[
+						"de",
+						"config/environments/development.rb"
+					],
+					[
+						"dev",
+						"config/environments/development.rb"
+					],
+					[
+						"prod",
+						"config/environments/production.rb"
+					],
+					[
+						"seed",
+						"db/seeds.rb"
+					],
+					[
+						"pos",
+						"app/models/post.rb"
+					],
+					[
+						"noti",
+						"app/models/notification.rb"
+					],
+					[
+						"postc",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"poscre",
+						"app/controllers/notifications_controller.rb"
+					],
+					[
+						"emai",
+						"app/views/user_mailer/notification_email.html.erb"
+					],
+					[
+						"prof",
+						"app/models/profile.rb"
+					],
+					[
+						"top",
+						"app/controllers/topics_controller.rb"
+					],
+					[
+						"welcom",
+						"app/views/devise/mailer/confirmation_instructions.html.erb"
+					],
+					[
+						"see",
+						"db/seeds.rb"
+					],
+					[
+						"wel",
+						"app/views/user_mailer/welcome_email.html.erb"
+					],
+					[
+						"app",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"no",
+						"app/models/notification.rb"
+					],
+					[
+						"migradd",
+						"db/migrate/20130203023644_add_content_to_topic.rb"
+					],
+					[
+						"migraadd",
+						"db/migrate/20130603195904_add_unread_to_notifications.rb"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"topi",
+						"app/models/topic.rb"
+					],
+					[
+						"roue",
+						"config/routes.rb"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"su",
+						"app/controllers/subscriptions_controller.rb"
+					],
+					[
+						"sub",
+						"app/controllers/subscriptions_controller.rb"
+					],
+					[
+						"rails",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"railc",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"not",
+						"app/models/notification.rb"
+					],
+					[
+						"rai",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"createsubsc",
+						"db/migrate/20130531234929_create_subscriptions.rb"
+					],
+					[
+						"createsub",
+						"db/migrate/20130423165538_create_refinerycms_resources_schema.refinery_resources.rb"
+					],
+					[
+						"railsc",
+						"/home/mizan/rails-commands.sh"
+					],
+					[
+						"resouindex",
+						"app/views/resources/index.html.erb"
+					],
+					[
+						"app/re",
+						"app/controllers/resources_controller.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"lay",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"vi",
+						"app/views/home/index.html.erb"
+					],
+					[
+						"home",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"ro",
+						"config/routes.rb"
+					],
+					[
+						"kamin",
+						"config/initializers/kaminari.rb"
+					],
+					[
+						"apperb",
+						"app/views/layouts/application.html.erb"
+					],
+					[
+						"abil",
+						"app/models/ability.rb"
+					],
+					[
+						"abi",
+						"app/models/ability.rb"
+					],
+					[
+						"role",
+						"app/models/role.rb"
+					],
+					[
+						"net",
+						"app/controllers/networks_controller.rb"
+					],
+					[
+						"netw",
+						"app/controllers/networks_controller.rb"
+					],
+					[
+						"rak",
+						"Rakefile"
+					],
+					[
+						"re",
+						"README.rdoc"
+					],
+					[
+						"read",
+						"README.rdoc"
+					],
+					[
+						"controller",
+						"app/controllers/jobs_controller.rb"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/home/mizan/dan.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 277.0,
+			"status_bar_visible": true,
+			"window_id": 3,
+			"workspace_name": "/home/mizan/pic_handler.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/mizan/pic_handler.sublime-project",
+			"/home/mizan/dan.sublime-project",
+			"/home/mizan/ot.sublime-project",
+			"/home/mizan/flickr2fb.sublime-project"
+		]
+	}
+}

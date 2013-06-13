@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AngularJS Snippets",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Haml",
+		"HTML2Haml",
+		"HTMLBeautify",
+		"JsFormat",
+		"Package Control",
+		"RubyFormat",
+		"Twitter Bootstrap Snippets"
+	]
+}
